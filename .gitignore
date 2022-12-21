@@ -1,3 +1,5 @@
 repos.cfg
 repos_init.cfg
 nvtool*
+PyTorch/SpeechSynthesis/Tacotron2/LJSpeech-1.1
+PyTorch/SpeechSynthesis/Tacotron2/LJSpeech-1.1.tar.bz2
